@@ -1,0 +1,40 @@
+{
+  "id": "w015ft45ra",
+  "name": {
+    "tr": "Paketler",
+    "en": "Packages",
+    "ar": "الباقات"
+  },
+  "description": {
+    "tr": "Üç çekim paketi ve sık sorulan sorular (kurgusal fiyatlar).",
+    "en": "Three shoot packages and frequently asked questions (fictional prices).",
+    "ar": "ثلاث باقات تصوير والأسئلة الشائعة (أسعار افتراضية)."
+  },
+  "keyword": {
+    "tr": "çekim paketleri, fotoğraf fiyatları",
+    "en": "shoot packages, photography prices",
+    "ar": "باقات التصوير، أسعار التصوير"
+  },
+  "path": "paketler",
+  "icon": "sell",
+  "category": "dlicxbokst",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "f8t5c2",
+      "7k7e5b"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Paketler",
+    "en": "Packages",
+    "ar": "الباقات"
+  },
+  "date": "2026-10-31T15:00:39.047Z",
+  "update": "2026-11-05T19:39:05.864Z"
+}

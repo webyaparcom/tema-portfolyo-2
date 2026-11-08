@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Hakkımda",
+    "en": "About",
+    "ar": "نبذة عني"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimda",
+  "index": 5,
+  "icon": "person",
+  "desing": {
+    "header": [],
+    "body": [
+      "1h7jtp",
+      "shpsp0"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Fotoğrafçı Kerem Aslan hakkında (kurgusal).",
+    "en": "About photographer Kerem Aslan (fictional).",
+    "ar": "عن المصوّر كرم أصلان (افتراضي)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Hakkımda",
+    "en": "About",
+    "ar": "نبذة عني"
+  },
+  "keyword": {
+    "tr": "hakkımda, fotoğrafçı",
+    "en": "about, photographer",
+    "ar": "نبذة عني، مصوّر"
+  },
+  "text": {},
+  "update": "2026-11-05T19:39:05.873Z",
+  "date": "2026-10-30"
+}
