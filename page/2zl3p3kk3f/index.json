@@ -1,0 +1,40 @@
+{
+  "id": "2zl3p3kk3f",
+  "name": {
+    "tr": "Referanslar",
+    "en": "References",
+    "ar": "آراء العملاء"
+  },
+  "description": {
+    "tr": "Birlikte çalışılan kişilerden kurgusal demo yorumlar.",
+    "en": "Fictional demo reviews from people worked with.",
+    "ar": "تقييمات تجريبية افتراضية ممن تم العمل معهم."
+  },
+  "keyword": {
+    "tr": "referanslar, yorumlar",
+    "en": "references, reviews",
+    "ar": "آراء، تقييمات"
+  },
+  "path": "referanslar",
+  "icon": "reviews",
+  "category": "shcpqzagyd",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "7aze7t",
+      "j6hulp"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Referanslar",
+    "en": "References",
+    "ar": "آراء العملاء"
+  },
+  "date": "2026-10-31T15:00:39.057Z",
+  "update": "2026-11-05T19:39:05.867Z"
+}

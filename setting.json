@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Atölye Mono: Gaziantep merkezli kurgusal fotoğraf stüdyosu. Portre, sokak, mimari ve ürün fotoğrafçılığı; çekim paketleri ve çevrimiçi rezervasyon. (Demo site)",
+    "en": "Atolye Mono: a fictional photography studio based in Gaziantep. Portrait, street, architecture and product photography; shoot packages and online booking. (Demo site)",
+    "ar": "أتوليه مونو: استوديو تصوير افتراضي مقره غازي عنتاب. تصوير بورتريه وشوارع وعمارة ومنتجات، مع باقات تصوير وحجز عبر الإنترنت. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "fotoğrafçı, portfolyo, portre, mimari fotoğraf, çekim rezervasyonu",
+    "en": "photographer, portfolio, portrait, architectural photography, shoot booking",
+    "ar": "مصوّر، معرض أعمال، بورتريه، تصوير معماري، حجز جلسة"
+  },
+  "category": "Galeri",
+  "name": "Atölye Mono",
+  "domain": "portfolyo-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "source-sans-3",
+    "heading": "barlow-condensed",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#FF6B35",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "1px",
+    "--mx-radius-md": "2px",
+    "--mx-radius-lg": "3px",
+    "--mx-radius-xl": "4px"
+  },
+  "icon": "icon.png"
+}
