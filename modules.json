@@ -881,7 +881,12 @@
         "social_media": false,
         "logo_maxh": "60px",
         "logo_plate": false,
-        "contact_line": "auto"
+        "contact_line": "auto",
+        "logoDark": "",
+        "duzen": "",
+        "slogan": "",
+        "ikinciSutun": "",
+        "iletisimNot": ""
       },
       "version": "1.0.0",
       "icon": "widgets",
@@ -4229,9 +4234,9 @@
           "ar": "اتصل بنا"
         },
         "callText": {
-          "tr": "Hafta içi 09:00 – 18:00",
-          "en": "Weekdays 09:00 – 18:00",
-          "ar": "أيام الأسبوع 09:00 – 18:00"
+          "tr": "Pzt–Cmt 10:00 – 19:00 (randevu ile)",
+          "en": "Mon–Sat 10:00 – 19:00 (by appointment)",
+          "ar": "الاثنين–السبت 10:00 – 19:00 (بموعد مسبق)"
         },
         "callBtn": {
           "tr": "Ara",
